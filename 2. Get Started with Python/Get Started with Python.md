@@ -2,6 +2,11 @@
 
 ##### COURSE STRUCTURE: 
 
+- Hello, Python!
+- Functions and conditional statements
+- Loops and strings
+- Data structures in Python
+- Course 2 end of course project
 
 
 ##### MY CERTIFICATE:
