@@ -6,7 +6,7 @@
 
 ##### MY CERTIFICATE:
 
-[![Certificate](https://img.shields.io/badge/-Certificate-1ca0f1?style=plastic&labelColor=1ca0f1&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/certificate/4FB5NR42Z5XC)]
+[![Certificate](https://img.shields.io/badge/-Certificate-1ca0f1?style=plastic&labelColor=1ca0f1&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/certificate/4FB5NR42Z5XC)](https://www.coursera.org/account/accomplishments/certificate/4FB5NR42Z5XC)
 ##### WHAT I LEARNT:
 
 - Explain how Python is used by data professionals 
