@@ -12,14 +12,20 @@
 UPDATE BELOW:
 ##### MY CERTIFICATE:
 
-[![Certificate](https://img.shields.io/badge/-Certificate-1ca0f1?style=plastic&labelColor=1ca0f1&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/certificate/4FB5NR42Z5XC)](https://www.coursera.org/account/accomplishments/certificate/4FB5NR42Z5XC)
+[![Certificate](https://img.shields.io/badge/-Certificate-1ca0f1?style=plastic&labelColor=1ca0f1&logo=Coursera&logoColor=white&link=https://coursera.org/share/5adefe5d69a6556ab5f791629cb2048b)](https://coursera.org/share/5adefe5d69a6556ab5f791629cb2048b)
+
 ##### WHAT I LEARNT:
 
-- Explain how Python is used by data professionals 
-- Explore basic Python building blocks, including syntax and semantics
-- Understand loops, control statements, and string manipulation
-- Use data structures to store and organize data 
+- Apply the exploratory data analysis (EDA) process
+- Explore the benefits of structuring and cleaning data
+- Investigate raw data using Python
+- Create data visualizations using Tableau  
 
 ##### SKILLS I GAINED: 
 
-![Readability](https://img.shields.io/badge/code-Code_Readability-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+![Pyhon Programming](https://img.shields.io/badge/code-Python_Programming-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+![Tableau](https://img.shields.io/badge/DataViz-Tableu_Software-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+![DataViz](https://img.shields.io/badge/DataViz-Data_Visualization-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+![Communication](https://img.shields.io/badge/communication-Effective_Communication-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+![EDA](https://img.shields.io/badge/data-Exploratory_Data_Analysis-1ca0f?style=plastic&labelColor=1ca0f1&logoColor=white) 
+
