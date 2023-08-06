@@ -5,6 +5,7 @@ The Power of Statistics  <br><br/>
 - Intoduction to sampling
 - Probability
 - Sampling
+- Confidence intervals
 - Introduction to hypothesis testing
 - Course 4 end of course project
 
