@@ -9,7 +9,6 @@
 - Course 3 end of course project
 
 
-UPDATE BELOW:
 ##### MY CERTIFICATE:
 
 [![Certificate](https://img.shields.io/badge/-Certificate-1ca0f1?style=plastic&labelColor=1ca0f1&logo=Coursera&logoColor=white&link=https://coursera.org/share/5adefe5d69a6556ab5f791629cb2048b)](https://coursera.org/share/5adefe5d69a6556ab5f791629cb2048b)
