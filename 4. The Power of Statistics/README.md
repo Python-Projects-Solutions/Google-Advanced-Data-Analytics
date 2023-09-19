@@ -1,4 +1,4 @@
-The Power of Statistics  <br><br/>
+# The Power of Statistics  <br><br/>
 
 ##### COURSE STRUCTURE: 
 
