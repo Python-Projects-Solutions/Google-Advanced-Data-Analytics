@@ -1,4 +1,4 @@
-## Regression Analysis: Simplify Complex Data Relationships  <br><br/>
+# Regression Analysis: Simplify Complex Data Relationships  <br><br/>
 
 ##### COURSE STRUCTURE: 
 
